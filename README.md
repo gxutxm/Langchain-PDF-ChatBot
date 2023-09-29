@@ -61,6 +61,11 @@ project_name/
 
 ## Result:
 
+
+https://github.com/gxutxm/Langchain-PDF-ChatBot/assets/81068888/1b47963c-b160-404e-bc4e-0db5e11ded9c
+
+
+
 ## Project Structure:
 
 ```
