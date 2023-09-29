@@ -23,6 +23,9 @@ Large Language Models (LLMs) are sophisticated natural language processing model
 7. **Handling Ambiguity:** LLMs can deal with ambiguous language constructs, understanding different interpretations based on the context. This ability is essential for tasks like machine translation and question-answering systems.
 8. **Broad Applicability:** LLMs are used in a variety of applications, including machine translation, question-answering, sentiment analysis, chatbots, content creation, and more. Their versatility makes them a cornerstone of modern natural language processing.
 
+   ![schematic-1](https://github.com/gxutxm/Langchain-PDF-ChatBot/assets/81068888/889bfef8-49be-43ff-8259-83bdda415c9b)
+
+
 ## Installation:
 
 1. Clone the repository:
